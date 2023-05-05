@@ -1,8 +1,8 @@
 {
-    "name": "MiraiByPassKemNasa",
+    "name": "NT-ALIF-SHEIH",
     "version": "1.2.14",
-    "description": "Kem Premium Dino Platinum, Developer - Founder - Admin 🌸",
-    "main": "mirai.js",
+    "description": "NT ALIF SHEIKH, Developer - Founder - Admin 🌸",
+    "main": "Alif.js",
     "scripts": {
         "start": "node index",
         "login": "node login",
@@ -10,9 +10,9 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/kemnasa/miraiv2.git"
+        "url": "git+https://github.com/F3ogbaba/miraiv2.git"
     },
-    "author": "KemNasa",
+    "author": "N3OBH4CKER",
     "license": "GPL-3.0",
     "dependencies": {
         "simple-youtube-api": "",
